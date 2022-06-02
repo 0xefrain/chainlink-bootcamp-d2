@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/home/efrain/projects/chainlink-bootcamp/contracts/MyFirstContract.sol": {
+      "lastModificationDate": 1654133060552,
+      "contentHash": "b054955587f42ce80062f02714034413",
+      "sourceName": "contracts/MyFirstContract.sol",
+      "solcConfig": {
+        "version": "0.8.14",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "=0.8.14"
+      ],
+      "artifacts": [
+        "MyFirstContract"
+      ]
+    }
+  }
+}
